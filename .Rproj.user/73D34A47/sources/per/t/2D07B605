@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1580147472521.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "854688915",
+    "id" : "2D07B605",
+    "lastKnownWriteTime" : 1580671412,
+    "last_content_update" : 1580671412,
+    "path" : "C:/Users/ambam/OneDrive/Desktop/Winter 2020/1) MATH 1350   - Statistics for IT/Labs/Lab4/Monty.R",
+    "project_path" : "Monty.R",
+    "properties" : {
+        "cursorPosition" : "14,12",
+        "scrollLine" : "7",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
